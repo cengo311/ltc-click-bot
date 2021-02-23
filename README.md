@@ -1,4 +1,4 @@
-# ltc-and-other-click-bot
+# ltc-and-other-click-bot for *Telegram*
 **SC : NY0Long**
 
 Bodoamat Yang penting Work
