@@ -2,7 +2,7 @@
 **SC : ??**
 
 saya cari ini sulit bro, dari dulu cuma dapet yg versi termux, gk work untuk linux, and finally saya menemukan sc ini di *YT*, dan stelah saya coba ini berhasil :]
-# Caran Makenya?
+# Cara Makenya?
 git clone github.com/misqwin/ltc-and-others-click-bot
 
 cd ltc-and-others-click-bot
